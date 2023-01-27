@@ -1,2 +1,2 @@
-# bootcamp-carrefour-desafio-github
-Desafio de projeto bootcamp Banco Carrefour sobre Git/Gihub
+# Repositório de projeto do Bootcamp Banco Carrefour da Dio
+Desafio de projeto sobre Git/Github
